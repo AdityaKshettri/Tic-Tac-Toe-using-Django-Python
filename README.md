@@ -1,8 +1,8 @@
-# Tic-Tac-Toe-using-Django
+# Tic-Tac-Toe-using-Django-Python :
 
 In this project, I have worked on Django to build the Tic-Tac-Toe Game in Python Environment using Visual Studio Code.
 
-# How to run this project:
+# How to run this project :
 
 1- Download the entire project and open it in Visual Studio Code.
 
